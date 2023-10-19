@@ -1,17 +1,34 @@
-# Welcome to MkDocs
+# Welcome to Community Collaboration Standards
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## 10 Community Processes
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Agile / Sprint  - process / framework
+* Way of Council - process / framework
+* Async Work - processes
+* “The List” - Database
+* Youtube - Process
+* Events - Process
+* Knowledge management / PARA - process / framework
+* Accounting - Process
+* Partnership and collaborations - Process
+* Recommendations
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 12 Weekly Meetups
+
+Youtube
+
+## 3 Monthly Meetups
+
+Youtube
+
+## On going collaborative sessions with community groups
+* LittleFish
+* Gimbalabs
+* Konma
+* Wada
+* SWARM
+
+
