@@ -1,6 +1,5 @@
-# Welcome to Community Collaboration Standards
+# Index
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## 10 Community Processes
 
