@@ -1,5 +1,5 @@
-site_name: MkDocs YouTube Tutorial
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_name: Community Collaboration Standards
+site_url: https://newman5.github.io/community-collaboration-standards/
 theme:
   name: material
   features:
