@@ -7,14 +7,14 @@ This project is our attempt at collecting these community standards and sharing 
 
 
 ## About this project
-The ideascale link
+[on Ideascale](https://cardano.ideascale.com/c/idea/405044)
 
-The projectcatlyst.io link
+[on Projectcatlyst.io](https://projectcatalyst.io/funds/8/f8-open-standards-and-interoperability/community-collaboration-standards)
 
 Roadmap
 https://docs.google.com/spreadsheets/d/1GdZmPGVizjzGlHVSkSl9lE92KaSektXWuQvuZy6XwM4/edit#gid=0 
 
-10 Community Processes
+## 10 Community Processes to share
 
 * Agile / Sprint  - process / framework
 * Way of Council - process / framework
@@ -26,22 +26,6 @@ https://docs.google.com/spreadsheets/d/1GdZmPGVizjzGlHVSkSl9lE92KaSektXWuQvuZy6X
 * Accounting - Process
 * Partnership and collaborations - Process
 * Recommendations
-
-
-## 12 Weekly Meetups
-
-Youtube
-
-## 3 Monthly Meetups
-
-Youtube
-
-## On going collaborative sessions with community groups
-* LittleFish
-* Gimbalabs
-* Konma
-* Wada
-* SWARM
 
 
 ## About Cardano for Climate (C4C) and the project Team
